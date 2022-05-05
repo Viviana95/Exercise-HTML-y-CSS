@@ -1,0 +1,29 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background: rgb(98, 240, 238);
+    ;
+}
+
+header {
+    display: flex;
+    text-align: center;
+    
+      
+   }
+.logo {
+   display: flex;
+
+
+}
+div{
+    display: flex;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
