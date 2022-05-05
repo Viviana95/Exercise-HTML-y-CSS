@@ -1,0 +1,37 @@
+@import url(header.css);
+@import url(div.css);
+
+body{
+    background-color: rgb(194, 190, 190) ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    max-width: 700px;
+    margin: auto;
+    
+}
+
+h2{
+text-align: center;
+}
+
+#stext{
+    background-color: rgb(238, 249, 249);
+}
+span{
+    color: black;
+    margin: auto;
+}
+#colors{
+    background-color: green;
+}
+#black{
+    background-color: rgb(0, 0, 0);
+}
+
+
+#blue{
+    background-color: rgb(51, 26, 239);
+}
+#red{
+    background-color: teal;
+}
