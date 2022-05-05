@@ -17,3 +17,10 @@
     text-align: left;
     color: aliceblue;
 }
+
+#colors {
+   margin: auto; 
+   width: 700px;
+   height: 400px;
+
+}
