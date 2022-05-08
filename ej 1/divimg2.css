@@ -1,0 +1,82 @@
+
+
+.cuadro{
+ width: 400px;   
+ height: 300px;
+}
+
+.colores{
+    background-color: green;
+   
+   height: 100px;
+    text-align: center;
+}
+.line1{
+display: flex;
+justify-content: space-around;
+
+
+}
+.black
+{
+    width: 100px;
+    height: 100px;
+background-color: black;
+
+}
+.teal
+{
+width: 100px;
+height: 100px;
+background-color: teal;
+
+}
+.blue
+{
+width: 100px;
+height: 100px;
+background-color: blue;
+
+}
+.lime
+{
+width: 100px;
+height: 100px;
+background-color: lime;
+
+}
+
+.line2{
+    display: flex;
+    
+    
+    }
+
+.purple
+{
+width: 100px;
+ height: 100px;
+background-color: purple;
+
+}
+.yellow
+{
+width: 100px;
+height: 100px;
+background-color:yellow;
+
+}
+.olive
+{
+width: 100px;
+height: 100px;
+background-color: olive;
+
+}
+.red
+{
+width: 100px;
+height: 100px;
+background-color: red;
+
+}

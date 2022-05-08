@@ -1,12 +1,13 @@
 @import url(header.css);
 @import url(div.css);
-
+@import url(divimg2.css);
 body{
     background-color: rgb(194, 190, 190) ;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     max-width: 700px;
     margin: auto;
+   
     
 }
 

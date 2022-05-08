@@ -8,58 +8,10 @@
 #text {
     display: flex;
     color: rgb(1, 1, 1);
-    
-}
+ }
 #title2 {
     background-color: rgb(69, 68, 68);
     text-align: left;
     color: aliceblue;
 }
 
-#colors {
-   background-color: green;
-   width: 700px;
-   height: 400px;
-   text-align: center;
-   display: flex;
-   
-
-}
-
-#purple {
-    margin-top: 15%;
-    background-color: purple;
-    width: 15%;
-    height: 30%;
-    
-   
- }
-
- #yellow {
-    margin-top: 15%;
-    background-color: yellow;
-    width: 15%;
-    height: 30%;
-   
- }
- #sblack {
-    margin-top: 15%;
-    background-color:black; 
-    width: 15%;
-    height: 30%;
-   
- }
- #steal {
-    margin-top: 15%;
-    background-color:teal; 
-    width: 15%;
-    height: 30%;
-   
- }
- #sblue {
-    margin-top: 15%;
-    background-color:blue; 
-    width: 15%;
-    height: 30%;
-   
- }
