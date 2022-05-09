@@ -1,0 +1,33 @@
+
+
+h1{
+    text-align: center;
+}
+.new
+{    
+    
+     width: 600px;
+     
+   
+}
+
+.img
+{
+     
+    display: flex;
+      
+}
+
+.i1:hover{
+    width: 100px;
+    transition: transform .2s; 
+    transform: scale(1.5); 
+    
+}
+
+ 
+
+    
+
+
+
