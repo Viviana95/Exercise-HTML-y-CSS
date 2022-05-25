@@ -1,22 +1,19 @@
 body{
     background-color: blanchedalmond;
     margin: 5%;
-    
-    
+       
 
 }
 
 header{
     text-align: center;
-   
     
 
 }
 img{
     margin: auto;
     width: 800px;
-   
-      
+       
 }
 .s1{
     display: flex;
