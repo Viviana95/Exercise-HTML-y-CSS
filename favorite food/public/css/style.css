@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(185, 113, 25);
+  margin: 10%;
+}
+body header {
+  width: 100%;
+}
+body header h1 {
+  background-color: rgb(235, 117, 117);
+  text-align: center;
+}
+body header img {
+  width: 100%;
+}
+body main .s1 {
+  display: flex;
+  justify-content: space-between;
+}
+body main p {
+  text-align: justify;
+}
+body footer {
+  text-align: center;
+  background-color: rgb(200, 237, 240);
+  height: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
