@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(185, 113, 25);
+  background-color: rgb(242, 220, 193);
   margin: 10%;
 }
 body header {
@@ -12,7 +12,7 @@ body header h1 {
 body header img {
   width: 100%;
 }
-body main .s1 {
+body main .part1 {
   display: flex;
   justify-content: space-between;
 }
@@ -21,8 +21,7 @@ body main p {
 }
 body footer {
   text-align: center;
-  background-color: rgb(200, 237, 240);
-  height: 30px;
+  background-color: rgb(235, 117, 117);
 }
 
 /*# sourceMappingURL=style.css.map */
